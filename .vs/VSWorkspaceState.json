@@ -1,0 +1,22 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\database\\seeds",
+    "\\resources",
+    "\\resources\\js",
+    "\\resources\\js\\components",
+    "\\resources\\lang",
+    "\\resources\\lang\\en",
+    "\\resources\\views",
+    "\\resources\\views\\auth",
+    "\\resources\\views\\auth\\passwords",
+    "\\resources\\views\\blog",
+    "\\resources\\views\\pages",
+    "\\resources\\views\\posts",
+    "\\storage",
+    "\\storage\\logs"
+  ],
+  "SelectedNode": "\\config\\mail.php",
+  "PreviewInSolutionExplorer": false
+}
